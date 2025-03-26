@@ -1,6 +1,6 @@
 /*
 
-    Author: 	A2Misbehave
+    Author: 	SirMisbehave
     Resource: 	W3 Schools - JavaScript
     URL:		https://www.w3schools.com/js/js_statements.asp
 
