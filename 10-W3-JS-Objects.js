@@ -50,3 +50,19 @@ const person3 = {
 
 console.log(person3)
 
+// JavaScript Objects are Mutable
+
+const person4 = {
+    firstName: "John",
+    lastName: "Doe",
+    age: 50,
+    eyeColor: "blue"
+}
+
+console.log("Object Output:", person4)
+
+const x = person4;
+console.log("Output x as Person:", x)
+
+x.age = 10
+console.log("Person After Changing x:", person4)
